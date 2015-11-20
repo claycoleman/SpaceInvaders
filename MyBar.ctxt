@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=x1\ y1\ iSize\ iExtr\ dir\ max
+comment0.target=MyBar(int,\ int,\ int,\ int,\ boolean,\ boolean)
+comment1.params=x1\ y1\ iSize\ iExtr\ incremental\ dir\ max
+comment1.target=MyBar(int,\ int,\ int,\ int,\ java.awt.Image,\ boolean,\ boolean)
+comment2.params=
+comment2.target=boolean\ maxed()
+comment3.params=
+comment3.target=int\ getSize()
+comment4.params=
+comment4.target=int\ getExtr()
+comment5.params=newSize
+comment5.target=void\ setSize(int)
+comment6.params=g
+comment6.target=void\ paintBar(java.awt.Graphics2D)
+comment7.params=g\ width\ height
+comment7.target=void\ paintBar(java.awt.Graphics2D,\ int,\ int)
+numComments=8
